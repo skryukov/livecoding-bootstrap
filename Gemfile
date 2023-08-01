@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-ruby "3.1.2"
-
 # Use main development branch of Rails
 gem "rails", "~> 7.0"
 
